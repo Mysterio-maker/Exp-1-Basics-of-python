@@ -1,4 +1,4 @@
-# Exp-1-Basics-of-python
+# Exp-2-Basics-of-python
 Tools- Google colab and Python
 Theory- This repository covers fundamental Python concepts demonstrated through basic programs such as printing output, taking user input, using conditional statements, performing arithmetic operations, and working with built-in data types.
 
